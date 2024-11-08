@@ -24,3 +24,32 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* .info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+/* .title {
+  margin: 32px auto; 
+} */
+/* 需要宽度 */
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {
+  max-width: 200px;
+}
